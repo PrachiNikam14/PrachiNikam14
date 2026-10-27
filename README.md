@@ -113,7 +113,7 @@ A REST API for handling file uploads in a web application.
 ## 🤝 Let's Connect!
 
 - **GitHub:** [PrachiNikam14](https://github.com/PrachiNikam14)
-- **LinkedIn:** Add your LinkedIn profile URL
+- **LinkedIn:** (https://www.linkedin.com/in/prachi-nikam-0185a6314/)
 - **Email:** prachidnikam27@gmail.com
 
 I'm always eager to learn, collaborate on interesting projects, and explore opportunities to grow as a technology professional.
